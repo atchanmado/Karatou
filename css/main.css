@@ -1,0 +1,33 @@
+.navbar{
+    box-shadow: 2px 2px 5px rgba(240, 240, 240, 0.233);
+  
+   
+   
+    
+}
+.navbar .nav-item .nav-link{
+    color: #fff;
+    
+}
+.main-header{
+    background: url(../image/cover-r4x3w1000-5bb4bd8395671-afrique-ancienne.jpg);
+    background-size: cover;
+    min-height: 400px;
+    background-attachment: fixed;
+    
+}
+.background-overlay{
+    position: relative;
+   background: rgba(106, 176, 76,.7) ;
+   top: 3px;
+   left: 0;
+   width: 100%;
+   height: 100%;
+
+}
+.form-cotrol, .btn{
+    border-radius: 0;
+}
+.team, footer{
+    background: rgba(106, 176, 76,1.0);
+}
